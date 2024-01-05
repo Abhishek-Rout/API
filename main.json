@@ -1,0 +1,20 @@
+{
+  "aboutme": {
+    "paragraphs": [
+      "Hi, I am Abhishek Rout, a Software Developer at Cartrade Tech Limited. I graduated with a Bachelor's Degree in Computer Engineering from D. Y. Patil College of Engineering, Pune.",
+      "I am a Web Developer as well as an Artificial Intelligence Enthusiast, currently working on Frontend Development.",
+      "I am also a competitive coder (2 Star CodeChef) and a tech-affiliated article writer on Medium & GeeksForGeeks.",
+      "Apart from these, I have a keen interest in playing Basketball & PC-Mobile Games, Drawing & Painting, and listening to Music."
+    ]
+  },
+  "resume": {
+    "view": "https://abhishek-rout.github.io/Assets/Resume_Abhishek_Rout.pdf",
+    "download": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/files/13830198/Resume_Abhishek_Rout.pdf"
+  },
+  "icons": {
+    "fb" : {
+      "logo": "facebook-new",
+      "link": "https://www.facebook.com/abhishek.rout.1829/",
+    }   
+  }
+}
