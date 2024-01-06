@@ -11,10 +11,26 @@
     "view": "https://abhishek-rout.github.io/Assets/Resume_Abhishek_Rout.pdf",
     "download": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/files/13830198/Resume_Abhishek_Rout.pdf"
   },
-  "icons": {
-    "fb" : {
+  "icons": [
+    {
       "logo": "facebook-new",
-      "link": "https://www.facebook.com/abhishek.rout.1829/",
-    }   
-  }
+      "link": "https://www.facebook.com/abhishek.rout.1829/"
+    },
+    {
+      "logo": "instagram",
+      "link": "https://www.instagram.com/mr.abhishek_rout/"
+    },
+    {
+      "logo": "linkedin",
+      "link": "https://www.linkedin.com/in/abhishek-rout-032330192/"
+    },
+    {
+      "logo": "github",
+      "link": "https://github.com/Abhishek-Rout"
+    },
+    {
+      "logo": "telegram-app",
+      "link": "https://t.me/Abhishek_Rout"
+    }
+  ]
 }
