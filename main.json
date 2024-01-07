@@ -1,36 +1,141 @@
 {
+  "header": [
+    "home",
+    "about",
+    "skills",
+    "achievements",
+    "my works",
+    "experience",
+    "education",
+    "blogs"
+  ],
+  "hero": {
+    "initials": [
+      "A",
+      "R"
+    ],
+    "name": [
+      "bhishek",
+      "out"
+    ],
+    "text": [
+      "Hello, My Name is",
+      "Abhishek Rout"
+    ],
+    "bg": "1600x900/?scenery"
+  },
   "aboutme": {
+    "me": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/assets/64718836/9dce3309-1f7c-416a-8dcd-37f237aa630e",
+    "tags": [
+      "Full Stack Developer.",
+      "Coder.",
+      "Machine Learning Ethusiast.",
+      "Data Science Enthusiast.",
+      "Creative Thinker."
+    ],
     "paragraphs": [
       "Hi, I am Abhishek Rout, a Software Developer at Cartrade Tech Limited. I graduated with a Bachelor's Degree in Computer Engineering from D. Y. Patil College of Engineering, Pune.",
       "I am a Web Developer as well as an Artificial Intelligence Enthusiast, currently working on Frontend Development.",
       "I am also a competitive coder (2 Star CodeChef) and a tech-affiliated article writer on Medium & GeeksForGeeks.",
       "Apart from these, I have a keen interest in playing Basketball & PC-Mobile Games, Drawing & Painting, and listening to Music."
+    ],
+    "resume": [
+      {
+        "text": "View resume",
+        "logo": "resume.png",
+        "link": "https://abhishek-rout.github.io/Assets/Resume_Abhishek_Rout.pdf"
+      },
+      {
+        "text": "Download Resume",
+        "logo": "download.png",
+        "link": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/files/13830198/Resume_Abhishek_Rout.pdf"
+      }
     ]
   },
-  "resume": {
-    "view": "https://abhishek-rout.github.io/Assets/Resume_Abhishek_Rout.pdf",
-    "download": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/files/13830198/Resume_Abhishek_Rout.pdf"
-  },
-  "icons": [
+  "social": [
     {
-      "logo": "facebook-new",
+      "text": "Facebook",
+      "logo": "facebook-new.png",
       "link": "https://www.facebook.com/abhishek.rout.1829/"
     },
     {
-      "logo": "instagram",
+      "text": "Instagram",
+      "logo": "instagram.png",
       "link": "https://www.instagram.com/mr.abhishek_rout/"
     },
     {
-      "logo": "linkedin",
+      "text": "LinkedIn",
+      "logo": "linkedin.png",
       "link": "https://www.linkedin.com/in/abhishek-rout-032330192/"
     },
     {
-      "logo": "github",
+      "text": "Github",
+      "logo": "github.png",
       "link": "https://github.com/Abhishek-Rout"
     },
     {
-      "logo": "telegram-app",
+      "text": "Telegram",
+      "logo": "telegram-app.png",
       "link": "https://t.me/Abhishek_Rout"
     }
-  ]
+  ],
+  "skills": [
+    {
+      "text": "Coding Languages",
+      "logo": "programming-flag",
+      "icons": "js,html,css,c,cpp,python,ts"
+    },
+    {
+      "text": "Library",
+      "logo": "web",
+      "icons": "react,redux"
+    },
+    {
+      "text": "Platforms",
+      "logo": "windows-client",
+      "icons": "linux,github"
+    },
+    {
+      "text": "Tools",
+      "logo": "code-file",
+      "icons": "git,jest,mongodb"
+    },
+    {
+      "text": "Editors",
+      "logo": "code",
+      "icons": "vscode,eclipse"
+    },
+    {
+      "text": "Databases",
+      "logo": "database",
+      "icons": "mysql"
+    },
+    {
+      "text": "Soft Skills",
+      "logo": "connected-people",
+      "info": [
+        "Leadership",
+        "Flexibility",
+        "Creative",
+        "Googling",
+        "Time Management"
+      ]
+    }
+  ],
+  "projects": {},
+  "achievements": {},
+  "footer": {
+    "tags": [
+      "Coder",
+      "Learner",
+      "Explorer",
+      "Innovator"
+    ],
+    "copyright": "Copyright © 2021 Abhishek Rout. All rights reserved"
+  },
+  "constants": {
+    "logo": "https://img.icons8.com/bubbles/100/000000/",
+    "skills": "https://skillicons.dev/icons?i=",
+    "bg": "https://source.unsplash.com/"
+  }
 }
