@@ -1,0 +1,96 @@
+{
+  "name": "Abhishek Rout",
+  "phone": "+91 9096464603",
+  "linkedin": "https://www.linkedin.com/in/abhishek-rout-032330192/",
+  "email": "abhishek.r.9690@gmail.com",
+  "portfolio": "https://abhishek-rout.github.io/",
+  "linktree": "https://linktr.ee/abhishekrout",
+  "education": [
+    {
+      "institute": "D.Y. Patil College of Engineering, Akurdi",
+      "place": "Pune, India",
+      "degree": "Bachelor of Engineering - Computer Engineering",
+      "date": "July 2018 - June 2022",
+      "grade": "9.63 SGPA",
+      "courses" : "Operating Systems, Data Structures, Analysis Of Algorithms, AI, ML, Networking, DB",
+      "project": [
+        "Jarvis: Built using Python libraries.",
+        "A program for assisting the user while using the PC through voice commands.",
+        "This program uses AI methodologies, web crawling, etc to get the desired output."
+      ]
+    },
+    {
+      "institute": "Kendriya Vidyalaya R.H.E, Khadki",
+      "place": "Pune, India",
+      "degree": "Higher Secondary from CBSE Board",
+      "date": "May 2017 - May 2018",
+      "grade": "83.9%",
+      "courses": "Physics, Chemistry, Mathematics, English, Computer Science"
+    },
+    {
+      "institute": "Kendriya Vidyalaya R.H.E, Khadki",
+      "place": "Pune, India",
+      "degree": "Senior Secondary from CBSE Board",
+      "date": "May 2015 - May 2016",
+      "grade": "10 CGPA",
+      "courses": "English, Hindi, Mathematics, Social Studies, Sanskrit"
+    }
+  ],
+  "skills": {
+    "Languages": "Python, C, C++, HTML5, CSS, SCSS, JavaScript, SQL, JAVA",
+    "Frameworks": "React, React-Native, Django, Flask, NodeJS, WIX, UI/UX",
+    "Tools": "Storybook, GIT, PostgreSQL, MySQL, SQLite, Agile Methodologies(JIRA), Jest, Cypress, NPM",
+    "Platforms": "Github, Linux, Web, Windows",
+    "Soft Skills": "Leadership, Flexibility, Event Management, Googling, Time Management"
+  },
+  "experience": [
+    {
+      "organization": "CARTRADE TECH LIMITED",
+      "place": "Navi Mumbai",
+      "position": "ASSOCIATE SDE - Frontend (Full-time)",
+      "date": "July 2022 - Present",
+      "details": [
+        "Led the development and ongoing maintenance of the Oxygen component library, ensuring design consistency, rigorous testing across all conceivable scenarios, and comprehensive Oxygen component documentation. Additionally, showcases highlighted usage of React and React Native Components within Oxygen library.",
+        "Led a 3-person team, for creating an Ozone components system, facilitating multi-platform use of 30 common higher-order components, improving code maintainability and performance.",
+        "Created Responsive Micro-sites using HTML, CSS and JavaScript, like Women In Mobility, Mobility Future Tech etc.",
+        "Automated interactive template creation with a configurable panel, streamlining the creation of templates and eliminating the need for manual front-end team intervention, reducing the template creation time by 70%.",
+        "Played a significant role in the team by managing the sprint using JIRA in the absence of the Team lead. Took ownership of various websites of Car dealers across India, which are clients of Cartrade Tech."
+      ]
+    },
+    {
+      "organization": "CARTRADE TECH LIMITED",
+      "place": "Navi Mumbai",
+      "position": "SDE - INTERN (Full-time)",
+      "date": "Dec 2021 - June 2022",
+      "details": [
+        "Optimization of website through DOM Node reduction and CSS optimization for improved SEO(Search Engine Optimization).",
+        "Converted design(PSD) files into highly functional and Responsive web pages.",
+        "Contributed to building Retail page through React JS for BikeWale which helps in ordering bikes without visiting the showroom.",
+        "Created Interactive templates - Video Wallpaper, split-screen, celebration slug, etc. using HTML, CSS, and JS. Ensured cross-platform compatibility (Desktop, M-site, Android, and iOS) with tracking features."
+      ]
+    },
+    {
+      "organization": "ZENSAR TECH Inc.",
+      "place": "Pune, India",
+      "position": "TRAINEE (Part-time)",
+      "date": "Oct 2020 - Feb 2021",
+      "details": [
+        "Learned from Industry experts regarding the new concepts and hands-on tutorials.",
+        "Open source development and tests: Solved multiple development and open source problems and had tests regarding the concepts",
+        "Exposure: Java, Python, MySQL, SQL, and Aptitude and Reasoning"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "Analysis and Optimization of Oxygen CSS in React pages (Node JS, Webpack, Automation)": "Developed a custom script to gather statistics on Oxygen theme classes utilized in React and CSS files to reduce the number of duplicated oxygen classes and integrate the required CSS into Oxygen library. (January ’22)"
+    },
+    {
+      "Abhishek CSS": "A webpage containing multiple creative and innovative webpages and with detailed source codes for making using HTML5, CSS, JS etc."
+    }
+  ],
+  "Achievements": [
+    "Secured 2nd Runner-up at Hacktivate 4.0 2022 for creating Analysis and Optimization of Oxygen CSS.",
+    "GeeksForGeeks: Author and Maintainer"
+  ]
+}
