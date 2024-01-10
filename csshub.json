@@ -1,0 +1,69 @@
+{
+  "projectdetails": {
+    "title": "",
+    "description": "",
+    "bg": ""
+  },
+  "projects": [
+    {
+      "Text Animation Effects": [
+        {
+          "name": "",
+          "details": "",
+          "link": "",
+          "code": ""
+        }
+      ],
+      "Image and Video Animation": [],
+      "Animated Login Page": [],
+      "Progress Bar Animation": [],
+      "Tooltip and Hover Animation": [],
+      "Animated Cards": [],
+      "Product Description": [],
+      "Animated Story Page": [],
+      "3D Animation": []
+    }
+  ],
+  "footer": {
+    "info": "If you like my work then give a ⭐️ to my Github Repository.",
+    "tags": [
+      "Coder",
+      "Learner",
+      "Explorer",
+      "Innovator"
+    ],
+    "copyright": "Copyright © 2021 Abhishek Rout. All rights reserved",
+    "social": [
+      {
+        "text": "Facebook",
+        "logo": "facebook-new.png",
+        "link": "https://www.facebook.com/abhishek.rout.1829/"
+      },
+      {
+        "text": "Instagram",
+        "logo": "instagram.png",
+        "link": "https://www.instagram.com/mr.abhishek_rout/"
+      },
+      {
+        "text": "LinkedIn",
+        "logo": "linkedin.png",
+        "link": "https://www.linkedin.com/in/abhishek-rout-032330192/"
+      },
+      {
+        "text": "Github",
+        "logo": "github.png",
+        "link": "https://github.com/Abhishek-Rout"
+      },
+      {
+        "text": "Telegram",
+        "logo": "telegram-app.png",
+        "link": "https://t.me/Abhishek_Rout"
+      }
+    ]
+  },
+  "constants": {
+    "link": "",
+    "code": "",
+    "img": ""
+  }
+}
