@@ -1,27 +1,357 @@
 {
-  "projectdetails": {
-    "title": "",
-    "description": "",
+  "main": {
+    "title": "Abhishek's CSS Hub",
+    "description": [
+      "Hello Everyone!👋 These are all my Front-End Web Development projects with Source Code. ",
+      "I Hope this helps you. I will add more projects to this webpage. So Stay Tuned!",
+      "[NOTE: Hover to tooltip over CSS Name to preview Image. Click On Name to Visit Site.]"
+    ],
     "bg": ""
   },
   "projects": [
     {
       "Text Animation Effects": [
         {
+          "name": "Colorful Smoking Text",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Smoke Visible Text",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Smoke Visible Text v2",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Text Hover Lightening",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Zig-Zag Text Animation",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
           "name": "",
           "details": "",
-          "link": "",
-          "code": ""
+          "link": "1/",
+          "code": "1"
         }
       ],
-      "Image and Video Animation": [],
-      "Animated Login Page": [],
-      "Progress Bar Animation": [],
-      "Tooltip and Hover Animation": [],
-      "Animated Cards": [],
-      "Product Description": [],
-      "Animated Story Page": [],
-      "3D Animation": []
+      "Image and Video Animation": [
+        {
+          "name": "Horizontally Rotating Image Gallery",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Animated Login Page": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Progress Bar Animation": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Tooltip and Hover Animation": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Animated Cards": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Product Description": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "Animated Story Page": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ],
+      "3D Animation": [
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        }
+      ]
     }
   ],
   "footer": {
@@ -62,8 +392,8 @@
     ]
   },
   "constants": {
-    "link": "",
-    "code": "",
+    "link": "https://abhishek-rout.github.io/Abhishek%20CSS/",
+    "code": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/tree/master/Abhishek%20CSS/",
     "img": ""
   }
 }
