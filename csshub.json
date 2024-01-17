@@ -50,57 +50,85 @@
       ],
       "Image and Video Animation": [
         {
-          "name": "Horizontally Rotating Image Gallery",
+          "name": "Auto Horizontally Rotating Image Gallery",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Horizontally Rotating Image Gallery on Mouse Move",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Auto 3D Rotating Image GallerySource Code",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "3D Rotating Image GallerySource Code on Mouse Move",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Touch Swipe Slider Gallery",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Simple Image Slider Gallery",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Responsive Image Gallery",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "5-Diamond Image Gallery",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },
+        {
+          "name": "Diamond Shape Image Gallery",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },{
+          "name": "Simple Video Slider",
+          "details": "",
+          "link": "1/",
+          "code": "1"
+        },{
+          "name": "Image Distortion",
           "details": "",
           "link": "1/",
           "code": "1"
         }
       ],
-      "Animated Login Page": [
+      "Login Pages": [
         {
-          "name": "",
+          "name": "Simple Login Page",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Animated Login Page",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Transparent Login Page",
           "details": "",
           "link": "1/",
           "code": "1"
@@ -126,25 +154,13 @@
       ],
       "Progress Bar Animation": [
         {
-          "name": "",
+          "name": "Circular Progess Bar",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
-          "details": "",
-          "link": "1/",
-          "code": "1"
-        },
-        {
-          "name": "",
-          "details": "",
-          "link": "1/",
-          "code": "1"
-        },
-        {
-          "name": "",
+          "name": "Horizontal Progess Bar",
           "details": "",
           "link": "1/",
           "code": "1"
@@ -162,21 +178,21 @@
           "code": "1"
         }
       ],
-      "Tooltip and Hover Animation": [
+      "Hover Animation": [
         {
-          "name": "",
+          "name": "Awesome Tooltip Hover Image",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Awesome Tooltip Hover Video",
           "details": "",
           "link": "1/",
           "code": "1"
         },
         {
-          "name": "",
+          "name": "Button Margin Changing Color",
           "details": "",
           "link": "1/",
           "code": "1"
