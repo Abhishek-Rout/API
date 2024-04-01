@@ -14,358 +14,368 @@
         {
           "name": "Colorful Smoking Text",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "colorful-smoke-text",
+          "img": ""
         },
         {
           "name": "Smoke Visible Text",
           "details": "",
-          "link": "2/",
-          "code": "2"
+          "url": "smoke-text",
+          "img": ""
         },
         {
-          "name": "Smoke Visible Text v2",
+          "name": "Colorful Fire Text",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "colorful-fire-text",
+          "img": ""
         },
         {
-          "name": "Text Hover Lightening",
+          "name": "Illuminating Text",
           "details": "",
-          "link": "3/",
-          "code": "3"
+          "url": "illuminating-text",
+          "img": ""
         },
         {
-          "name": "Zig-Zag Text Animation",
+          "name": "Zig-Zag Animated Text",
           "details": "",
-          "link": "4/",
-          "code": "4"
-        },
-        {
-          "name": "",
-          "details": "",
-          "link": "5/",
-          "code": "5"
+          "url": "zig-zag-animated-text",
+          "img": ""
         }
       ],
       "Image and Video Animation": [
         {
-          "name": "Auto Horizontally Rotating Image Gallery",
+          "name": "Auto Rotating Image Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "auto-rotating-gallery-3d",
+          "img": ""
         },
         {
-          "name": "Horizontally Rotating Image Gallery on Mouse Move",
+          "name": "Image Gallery Rotating on Cursor Move",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "cursor-rotating-gallery-3d",
+          "img": ""
         },
         {
-          "name": "Auto 3D Rotating Image GallerySource Code",
+          "name": "Auto Rotating Image Gallery Vertically",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "auto-rotating-vertical-gallery-3d",
+          "img": ""
         },
         {
-          "name": "3D Rotating Image GallerySource Code on Mouse Move",
+          "name": "Image Gallery Rotating Vertically on Cursor Move",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "cursor-rotating-vertical-gallery-3d",
+          "img": ""
         },
         {
           "name": "Touch Swipe Slider Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "touch-swipe-slider-gallery",
+          "img": ""
         },
         {
-          "name": "Simple Image Slider Gallery",
+          "name": "Image Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "image-gallery",
+          "img": ""
         },
         {
           "name": "Responsive Image Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "collage-image-gallery",
+          "img": ""
         },
         {
-          "name": "5-Diamond Image Gallery",
+          "name": "Diamond Shaped Image Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "diamond-shaped-image-gallery",
+          "img": ""
         },
         {
-          "name": "Diamond Shape Image Gallery",
+          "name": "Diamond Shape Image Gallery JQuery",
           "details": "",
-          "link": "1/",
-          "code": "1"
-        },{
-          "name": "Simple Video Slider",
+          "url": "diamond-shaped-gallery-jquery",
+          "img": ""
+        },
+        {
+          "name": "Video Gallery",
           "details": "",
-          "link": "1/",
-          "code": "1"
-        },{
+          "url": "video-gallery",
+          "img": ""
+        },
+        {
           "name": "Image Distortion",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "image-distortion/",
+          "img": ""
         }
       ],
       "Login Pages": [
         {
-          "name": "Simple Login Page",
+          "name": "Login Page",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "login-page",
+          "img": ""
         },
         {
-          "name": "Animated Login Page",
+          "name": "Themed Login Page",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "themed-login-page",
+          "img": ""
         },
         {
-          "name": "Transparent Login Page",
+          "name": "Transparent Background Animated Login Page",
           "details": "",
-          "link": "1/",
-          "code": "1"
-        },
-        {
-          "name": "",
-          "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "gradient-login-page",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
+        },
+        {
+          "name": "",
+          "details": "",
+          "url": "1/",
+          "img": ""
         }
       ],
       "Progress Bar Animation": [
         {
-          "name": "Circular Progess Bar",
+          "name": "Circular Rating",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "circle-rating",
+          "img": ""
         },
         {
-          "name": "Horizontal Progess Bar",
+          "name": "Progess Bar",
           "details": "",
-          "link": "1/",
-          "code": "1"
-        },
-        {
-          "name": "",
-          "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "progess-bar",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
+        },
+        {
+          "name": "",
+          "details": "",
+          "url": "1/",
+          "img": ""
         }
       ],
       "Hover Animation": [
         {
-          "name": "Awesome Tooltip Hover Image",
+          "name": "Awesoe Image Tooltip on Hover",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "image-tooltip-on-hover",
+          "img": ""
         },
         {
-          "name": "Awesome Tooltip Hover Video",
+          "name": "Awesome Video Tooltip on Hover",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "video-tooltip-on-hover",
+          "img": ""
         },
         {
-          "name": "Button Margin Changing Color",
+          "name": "Animated Button on Hover",
           "details": "",
-          "link": "1/",
-          "code": "1"
-        },
-        {
-          "name": "",
-          "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "gradient-button",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
+        },
+        {
+          "name": "",
+          "details": "",
+          "url": "1/",
+          "img": ""
         }
       ],
       "Animated Cards": [
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         }
       ],
-      "Product Description": [
+      "Landing Page": [
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         }
       ],
       "Animated Story Page": [
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         }
       ],
       "3D Animation": [
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
+        }
+      ],
+      "Animated Clocks": [
+        {
+          "name": "Flip Clock",
+          "details": "",
+          "url": "flip-clock",
+          "img": ""
+        },
+        {
+          "name": "New Year Countdown Clock",
+          "details": "",
+          "url": "new-year-countdown",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         },
         {
           "name": "",
           "details": "",
-          "link": "1/",
-          "code": "1"
+          "url": "1/",
+          "img": ""
         }
       ]
     }
@@ -383,33 +393,33 @@
       {
         "text": "Facebook",
         "logo": "facebook-new.png",
-        "link": "https://www.facebook.com/abhishek.rout.1829/"
+        "url": "https://www.facebook.com/abhishek.rout.1829/"
       },
       {
         "text": "Instagram",
         "logo": "instagram.png",
-        "link": "https://www.instagram.com/mr.abhishek_rout/"
+        "url": "https://www.instagram.com/mr.abhishek_rout/"
       },
       {
-        "text": "LinkedIn",
-        "logo": "linkedin.png",
-        "link": "https://www.linkedin.com/in/abhishek-rout-032330192/"
+        "text": "urledIn",
+        "logo": "urledin.png",
+        "url": "https://www.urledin.com/in/abhishek-rout-032330192/"
       },
       {
         "text": "Github",
         "logo": "github.png",
-        "link": "https://github.com/Abhishek-Rout"
+        "url": "https://github.com/Abhishek-Rout"
       },
       {
         "text": "Telegram",
         "logo": "telegram-app.png",
-        "link": "https://t.me/Abhishek_Rout"
+        "url": "https://t.me/Abhishek_Rout"
       }
     ]
   },
   "constants": {
-    "link": "https://abhishek-rout.github.io/Abhishek%20CSS/",
-    "code": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/tree/master/Abhishek%20CSS/",
+    "url": "https://abhishek-rout.github.io/Abhishek-CSS/",
+    "code": "https://github.com/Abhishek-Rout/Abhishek-Rout.github.io/tree/master/Abhishek-CSS/",
     "img": ""
   }
 }
