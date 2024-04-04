@@ -540,6 +540,12 @@
           "details": "",
           "url": "resume",
           "img": ""
+        },
+        {
+          "name": "Inline CSS converter",
+          "details":"",
+          "url": "inline-css-in-html",
+          "img": ""
         }
       ]
     }
