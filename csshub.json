@@ -10,7 +10,9 @@
   },
   "projects": [
     {
-      "Text Animation Effects": [
+      "id": "Text",
+      "title": "Text Animation Effects",
+      "list": [
         {
           "name": "Colorful Smoking Text",
           "details": "",
@@ -40,9 +42,19 @@
           "details": "",
           "url": "zig-zag-animated-text",
           "img": ""
+        },
+        {
+          "name": "Video Text Overlay",
+          "details": "",
+          "url": "video-text-overlay",
+          "img": ""
         }
-      ],
-      "Image and Video Animation": [
+      ]
+    },
+    {
+      "id": "Carousal",
+      "title": "Animated Image and Video Carousal",
+      "list": [
         {
           "name": "Auto Rotating Image Gallery",
           "details": "",
@@ -68,11 +80,23 @@
           "img": ""
         },
         {
-          "name": "Touch Swipe Slider Gallery",
+          "name": "Auto Swiping Cards",
           "details": "",
-          "url": "touch-swipe-slider-gallery",
+          "url": "auto-swiping-cards",
           "img": ""
         },
+        {
+          "name": "Touch Swipe Slider Card",
+          "details": "",
+          "url": "touch-swipe-slider-card",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Gallery",
+      "title": "Animated Gallery",
+      "list": [
         {
           "name": "Image Gallery",
           "details": "",
@@ -104,13 +128,23 @@
           "img": ""
         },
         {
-          "name": "Image Distortion",
+          "name": "Overlay Following Cursor Gallery",
           "details": "",
-          "url": "image-distortion/",
+          "url": "overlay-following-cursor",
+          "img": ""
+        },
+        {
+          "name": "Touch Swipe Slider Gallery",
+          "details": "",
+          "url": "touch-swipe-slider-gallery",
           "img": ""
         }
-      ],
-      "Login Pages": [
+      ]
+    },
+    {
+      "id": "Login",
+      "title": "Login Pages",
+      "list": [
         {
           "name": "Login Page",
           "details": "",
@@ -132,7 +166,7 @@
         {
           "name": "",
           "details": "",
-          "url": "1/",
+          "url": "",
           "img": ""
         },
         {
@@ -147,8 +181,12 @@
           "url": "1/",
           "img": ""
         }
-      ],
-      "Progress Bar Animation": [
+      ]
+    },
+    {
+      "id": "Rating",
+      "title": "Animatied Ratings",
+      "list": [
         {
           "name": "Circular Rating",
           "details": "",
@@ -173,10 +211,14 @@
           "url": "1/",
           "img": ""
         }
-      ],
-      "Hover Animation": [
+      ]
+    },
+    {
+      "id": "On Hover",
+      "title": "Hover Animation",
+      "list": [
         {
-          "name": "Awesoe Image Tooltip on Hover",
+          "name": "Awesome Image Tooltip on Hover",
           "details": "",
           "url": "image-tooltip-on-hover",
           "img": ""
@@ -194,9 +236,165 @@
           "img": ""
         },
         {
-          "name": "",
+          "name": "Gradient Button on Hover",
           "details": "",
-          "url": "1/",
+          "url": "gradient-button-on-hover",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Cards",
+      "title": "Animated Cards",
+      "list": [
+        {
+          "name": "Tilt Cards on Hover",
+          "details": "",
+          "url": "card-hover-tilt",
+          "img": ""
+        },
+        {
+          "name": "Expand Info on Card Hover",
+          "details": "",
+          "url": "expand-info-on-card-hover",
+          "img": ""
+        },
+        {
+          "name": "Flip Card on Hover",
+          "details": "",
+          "url": "flip-card-on-hover-3d",
+          "img": ""
+        },
+        {
+          "name": "Glowing Glass Cards",
+          "details": "",
+          "url": "glowing-glass-card",
+          "img": ""
+        },
+        {
+          "name": "Image Card Flip on Hover",
+          "details": "",
+          "url": "image-card-flip-on-hover-3d",
+          "img": ""
+        },
+        {
+          "name": "Image Detail on Card Hover",
+          "details": "",
+          "url": "image-hover-detail-card",
+          "img": ""
+        },
+        {
+          "name": "Responsive Box Cards",
+          "details": "",
+          "url": "responsive-box-cards",
+          "img": ""
+        },
+        {
+          "name": "Responsive Card Grid",
+          "details": "",
+          "url": "responsive-grid-cards",
+          "img": ""
+        },
+        {
+          "name": "Responsive Hero Card",
+          "details": "",
+          "url": "responsive-hero-card",
+          "img": ""
+        },
+        {
+          "name": "Responsive Image Card",
+          "details": "",
+          "url": "responsive-image-card",
+          "img": ""
+        },
+        {
+          "name": "Rotating Image Card on Hover",
+          "details": "",
+          "url": "rotate-image-on-hover",
+          "img": ""
+        },
+        {
+          "name": "Scale Card on Hover",
+          "details": "",
+          "url": "scale-card-on-hover",
+          "img": ""
+        },
+        {
+          "name": "Transform Card On Hover",
+          "details": "",
+          "url": "transform-card-on-hover",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Landing",
+      "title": "Landing Pages",
+      "list": [
+        {
+          "name": "Product Filter Landing Page",
+          "details": "",
+          "url": "product-filter-page",
+          "img": ""
+        },
+        {
+          "name": "Music Landing Page",
+          "details": "",
+          "url": "music-page",
+          "img": ""
+        },
+        {
+          "name": "Light and Dark theme Page on Cursor Hold",
+          "details": "",
+          "url": "light-dark-themed-page",
+          "img": ""
+        },
+        {
+          "name": "Google Landing Page",
+          "details": "",
+          "url": "google-page",
+          "img": ""
+        },
+        {
+          "name": "Fitness Landing Page",
+          "details": "",
+          "url": "fitness-landing-page",
+          "img": ""
+        },
+        {
+          "name": "Joker Trailer Landing Page",
+          "details": "",
+          "url": "joker-movie-page",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Story",
+      "title": "Animated Story Pages",
+      "list": [
+        {
+          "name": "Sticky Image Story Page",
+          "details": "",
+          "url": "sticky-image-story",
+          "img": ""
+        },
+        {
+          "name": "Sticky Heading Story Page",
+          "details": "",
+          "url": "sticky-heading-story",
+          "img": ""
+        },
+        {
+          "name": "Click to Expand Story",
+          "details": "",
+          "url": "click-to-expand-story",
+          "img": ""
+        },
+        {
+          "name": "Page Scroll Story",
+          "details": "",
+          "url": "page-scroll-story",
           "img": ""
         },
         {
@@ -211,68 +409,22 @@
           "url": "1/",
           "img": ""
         }
-      ],
-      "Animated Cards": [
+      ]
+    },
+    {
+      "id": "Cube",
+      "title": "3D Cube Animation",
+      "list": [
         {
-          "name": "",
+          "name": "3D Cube",
           "details": "",
-          "url": "/",
+          "url": "cube-3d",
           "img": ""
         },
         {
-          "name": "",
+          "name": "Static Video Cube",
           "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        }
-      ],
-      "Landing Page": [
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
+          "url": "static-cube-video",
           "img": ""
         },
         {
@@ -287,72 +439,12 @@
           "url": "1/",
           "img": ""
         }
-      ],
-      "Animated Story Page": [
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        }
-      ],
-      "3D Animation": [
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        },
-        {
-          "name": "",
-          "details": "",
-          "url": "1/",
-          "img": ""
-        }
-      ],
-      "Animated Clocks": [
+      ]
+    },
+    {
+      "id": "Clocks",
+      "title": "Animated Clocks",
+      "list": [
         {
           "name": "Flip Clock",
           "details": "",
@@ -375,6 +467,78 @@
           "name": "",
           "details": "",
           "url": "1/",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Game",
+      "title": "Games",
+      "list": [
+        {
+          "name": "One Player Tic-Tac-Toe",
+          "details": "",
+          "url": "one-player-tic-tac-toe",
+          "img": ""
+        },
+        {
+          "name": "Two Player Tic-Tac-Toe",
+          "details": "",
+          "url": "two-player-tic-tac-toe",
+          "img": ""
+        },
+        {
+          "name": "2048",
+          "details": "",
+          "url": "2048",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "Misc",
+      "title": "Miscellaneous",
+      "list": [
+        {
+          "name": "Animated Calculator",
+          "details": "",
+          "url": "calculator",
+          "img": ""
+        },
+        {
+          "name": "Todo List",
+          "details": "",
+          "url": "todo-list",
+          "img": ""
+        },
+        {
+          "name": "Animated Diwali Page",
+          "details": "",
+          "url": "animated-image-diwali-page",
+          "img": ""
+        },
+        {
+          "name": "Animated Rocket",
+          "details": "",
+          "url": "animated-rocket-on-cursor",
+          "img": ""
+        },
+        {
+          "name": "Image Distortion",
+          "details": "",
+          "url": "image-distortion",
+          "img": ""
+        },
+        {
+          "name": "QR Code Generator",
+          "details": "",
+          "url": "qr-code-generator",
+          "img": ""
+        },
+        {
+          "name": "Resume",
+          "details": "",
+          "url": "resume",
           "img": ""
         }
       ]
