@@ -47,6 +47,15 @@
     {
       "organization": "CARTRADE TECH LIMITED",
       "place": "Navi Mumbai",
+      "position": "SDE 1 - Frontend (Full-time)",
+      "date": "July 2022 - Present",
+      "details": [
+        "", "", ""
+      ]
+    },
+    {
+      "organization": "CARTRADE TECH LIMITED",
+      "place": "Navi Mumbai",
       "position": "ASSOCIATE SDE - Frontend (Full-time)",
       "date": "July 2022 - Present",
       "details": [
@@ -85,6 +94,9 @@
     {
       "Analysis and Optimization of Oxygen CSS in React pages (Node JS, Webpack, Automation)": "Developed a custom script to gather statistics on Oxygen theme classes utilized in React and CSS files to reduce the number of duplicated oxygen classes and integrate the required CSS into Oxygen library. (January ’22)"
     },
+    {
+      "Abhishek Ui": "Explore a library of free, customizable UI elements built with HTML, CSS, and JavaScript, complete with an online code editor."
+    }
     {
       "Abhishek CSS": "A webpage containing multiple creative and innovative webpages and with detailed source codes for making using HTML5, CSS, JS etc."
     }
