@@ -1,5 +1,10 @@
 {
-  "githubId" : [
-    "Abhishek-Rout"
+  "contributors" : [
+    {
+      "name": "Abhishek-Rout",
+      "id": 1,
+      "role": "developer",
+      "rank": "master"
+    }
   ]
 }
